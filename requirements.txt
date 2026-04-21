@@ -1,0 +1,5 @@
+streamlit
+gymnasium[box2d]
+torch
+numpy
+imageio
